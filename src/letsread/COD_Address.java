@@ -62,15 +62,16 @@ public class COD_Address extends javax.swing.JFrame {
         jButton3.setBackground(new java.awt.Color(125, 80, 36));
         jButton3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/letsread/arrow (7).png"))); // NOI18N
 
-        jPanel2.setBackground(new java.awt.Color(204, 204, 204));
+        jPanel2.setBackground(new java.awt.Color(153, 153, 153));
         jPanel2.setPreferredSize(new java.awt.Dimension(452, 450));
 
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
-        jLabel1.setForeground(new java.awt.Color(153, 153, 153));
+        jLabel1.setForeground(new java.awt.Color(204, 204, 204));
         jLabel1.setText("CheckOut");
 
+        jLabel2.setBackground(new java.awt.Color(153, 153, 153));
         jLabel2.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
-        jLabel2.setForeground(new java.awt.Color(153, 153, 153));
+        jLabel2.setForeground(new java.awt.Color(204, 204, 204));
         jLabel2.setText("Delivering  Address");
 
         jPanel3.setBackground(new java.awt.Color(120, 80, 36));
