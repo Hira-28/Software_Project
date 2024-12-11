@@ -346,7 +346,7 @@ public class Location extends javax.swing.JFrame {
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new Filter().setVisible(true);
+                new Location().setVisible(true);
             }
         });
     }
