@@ -24,6 +24,7 @@ public class COD_Address extends javax.swing.JFrame {
      */
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
+    //modified
     private void initComponents() {
 
         jPanel1 = new javax.swing.JPanel();
